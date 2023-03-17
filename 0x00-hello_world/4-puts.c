@@ -1,13 +1,11 @@
 #include <stdio.h>
 /**
-*main - first task with betty style
-*return: return to 0 mean (Success)
+* main - the first task using betty
+* Return: Always 0
 */
 int main(void)
 {
+/* Code start here */
 puts("\"Programming is like building a multilingual puzzle");
-/**
-*return: return to the 0
-*/
 return (0);
 }
