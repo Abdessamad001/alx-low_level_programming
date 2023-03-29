@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * print_number - Add one line to this code
- * Return: 0
+ * main - Entry point
+ * Description: Add one line to this code, so that the program prints a[2] = 8
+ * Return: Always 0
  */
 int main(void)
 {
